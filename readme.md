@@ -45,3 +45,8 @@ The game requires the following dependencies:
 - Pygame
 
 That's it! Enjoy playing 9ja Math Game.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for details.
